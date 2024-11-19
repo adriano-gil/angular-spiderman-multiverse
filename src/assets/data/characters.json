@@ -1,0 +1,147 @@
+[
+
+    {
+        "id": "tobey-maguire",
+        "name": "Tobey Maguire",
+        "navicon": "../../../assets/images/icons/spiderman1.png",
+        "films":[{
+
+            "id": "homem-aranha",
+            "logo": "../../../assets/images/spiderman-tobey/movie-01/logo.png",
+            "year": 2002,
+            "director": "Sam Raimi",
+            "synopsis": "Depois de ser picado por uma aranha geneticamente modificada em uma demonstração científica, o jovem nerd Peter Parker ganha superpoderes. Inicialmente, ele pretende usá-los para para ganhar dinheiro, adotando o nome de Homem-Aranha e se apresentando em lutas de exibição. Porém, ao presenciar o assassinando de seu tio Ben e sentir-se culpado, Peter decide não mais usar seus poderes para proveito próprio e sim para enfrentar o mal, tendo como seu primeiro grande desafio o psicótico Duende Verde.",
+            "gallery": [
+            "../../../assets/images/spiderman-tobey/movie-01/gallery/image-01.png",
+            "../../../assets/images/spiderman-tobey/movie-01/gallery/image-02.png",
+            "../../../assets/images/spiderman-tobey/movie-01/gallery/image-03.png"
+            ],
+            "trailer": "https://www.youtube.com/watch?v=TYMMOjBUPMM",
+            "bgclip": "assets/videos/spiderman-2002-trailer.mp4",
+            "bgimg": "../../../assets/images/spiderman-tobey/movie-01/background.png"
+        },
+        {
+            "id": "homem-aranha-2",
+            "logo": "../../../assets/images/spiderman-tobey/movie-02/logo.png",
+            "year": 2004,
+            "director": "Sam Raimi",
+            "synopsis": "Peter Parker enfrenta uma crise pessoal enquanto tenta equilibrar sua vida como o Homem-Aranha e suas responsabilidades como estudante e amigo. Ao mesmo tempo, ele enfrenta o Doutor Octopus, um vilão com tentáculos mecânicos, que ameaça destruir Nova York. Peter também luta com seus sentimentos por Mary Jane e a dificuldade de manter sua identidade secreta.",
+            "gallery": [
+                "../../../assets/images/spiderman-tobey/movie-02/gallery/image-01.png",
+                "../../../assets/images/spiderman-tobey/movie-02/gallery/image-02.png",
+                "../../../assets/images/spiderman-tobey/movie-02/gallery/image-03.png"
+            ],
+            "trailer": "https://www.youtube.com/watch?v=TYMMOjBUPMM",
+            "bgclip": "assets/videos/spiderman2-2004-trailer.mp4",
+            "bgimg": "../../../assets/images/spiderman-tobey/movie-02/background.png"
+        },
+        {
+            "id": "homem-aranha-3",
+            "logo": "../../../assets/images/spiderman-tobey/movie-03/logo.png",
+            "year": 2007,
+            "director": "Sam Raimi",
+            "synopsis": "Peter Parker, agora mais confiante como o Homem-Aranha, enfrenta múltiplos desafios. Ele lida com o surgimento de novos vilões, incluindo o Sandman, que é responsável pela morte de seu tio Ben, e o Venom, uma criatura que se une a Peter após ele ser contaminado por um simbiótico alienígena. Além disso, Peter se vê consumido pelo lado sombrio de sua personalidade, o que afeta seus relacionamentos, especialmente com Mary Jane e Harry Osborn, que agora busca vingança pela morte de seu pai.",
+            "gallery": [
+                "../../../assets/images/spiderman-tobey/movie-03/gallery/image-01.png",
+                "../../../assets/images/spiderman-tobey/movie-03/gallery/image-02.png",
+                "../../../assets/images/spiderman-tobey/movie-03/gallery/image-03.png"
+            ],
+            "trailer": "https://www.youtube.com/watch?v=TYMMOjBUPMM",
+            "bgclip": "assets/videos/spiderman3-2007-trailer.mp4",
+            "bgimg": "../../../assets/images/spiderman-tobey/movie-03/background.png"
+
+        }]
+    },
+
+    {
+        "id": "tom-holland",
+        "name": "Tom Holland",
+        "navicon": "../../../assets/images/icons/spiderman2.png",
+        "films":[{
+
+            "id": "homecoming",
+            "logo": "../../../assets/images/spiderman-tom/movie-01/logo.png",
+            "year": 2017,
+            "director": "Jon Watts",
+            "synopsis": "Peter Parker retorna a Nova York depois de lutar ao lado dos Vingadores em Capitão América: Guerra Civil. Agora, tentando equilibrar sua vida como estudante do ensino médio e como o Homem-Aranha, Peter enfrenta o vilão Abutre (Michael Keaton), um criminoso que usa tecnologia alienígena para cometer crimes. Peter quer provar seu valor como herói, mas precisa aprender a lidar com as responsabilidades e os desafios que vêm com seus poderes.",
+            "gallery": [
+                "../../../assets/images/spiderman-tom/movie-01/gallery/image-01.png",
+                "../../../assets/images/spiderman-tom/movie-01/gallery/image-02.png",
+                "../../../assets/images/spiderman-tom/movie-01/gallery/image-03.png",
+                "../../../assets/images/spiderman-tom/movie-01/gallery/image-04.png"
+            ],
+            "trailer": "https://www.youtube.com/watch?v=TYMMOjBUPMM",
+            "bgclip": "assets/videos/spiderman-2017-trailer.mp4",
+            "bgimg": "../../../assets/images/spiderman-tom/movie-01/background.png"
+        },
+        {
+            "id": "far-from-home",
+            "logo": "../../../assets/images/spiderman-tom/movie-02/logo.png",
+            "year": 2019,
+            "director": "Jon Watts",
+            "synopsis": "Após os eventos de Vingadores: Ultimato, Peter Parker tenta seguir em frente e aproveitar suas férias na Europa com seus amigos. No entanto, ele é recrutado por Nick Fury para enfrentar um novo vilão, Mysterio (Jake Gyllenhaal), que usa ilusões para enganar a população e criar uma ameaça de proporções épicas. Enquanto lida com os desafios de sua identidade secreta e os legados de Tony Stark, Peter enfrenta a difícil escolha entre ser o Homem-Aranha ou viver sua vida como um jovem comum.",
+            "gallery": [
+                "../../../assets/images/spiderman-tom/movie-01/gallery/image-01.png",
+                "../../../assets/images/spiderman-tom/movie-01/gallery/image-02.png",
+                "../../../assets/images/spiderman-tom/movie-01/gallery/image-03.png",
+                "../../../assets/images/spiderman-tom/movie-01/gallery/image-04.png"
+            ],
+            "trailer": "https://www.youtube.com/watch?v=TYMMOjBUPMM",
+            "bgclip": "assets/videos/spiderman2-2019-trailer.mp4",
+            "bgimg": "../../../assets/images/spiderman-tom/movie-02/background.png"
+        },
+        {
+            "id": "no-way-home",
+            "logo": "../../../assets/images/spiderman-tom/movie-03/logo.png",
+            "year": 2021,
+            "director": "Jon Watts",
+            "synopsis": "Após sua identidade secreta ser revelada ao mundo, Peter Parker (Tom Holland) busca a ajuda do Doutor Estranho (Benedict Cumberbatch) para reverter os danos causados pela exposição de sua identidade. No entanto, um feitiço dá errado, abrindo portais para o multiverso e trazendo vilões de diferentes realidades, incluindo o Duende Verde (Willem Dafoe), Doutor Octopus (Alfred Molina) e Electro (Jamie Foxx). Peter precisa unir forças com versões passadas de si mesmo, interpretadas por Tobey Maguire e Andrew Garfield, para corrigir o caos causado e proteger sua realidade. O filme explora as consequências das escolhas de Peter e o custo de ser um herói.",
+            "gallery": [
+                "../../../assets/images/spiderman-tom/movie-01/gallery/image-01.png",
+                "../../../assets/images/spiderman-tom/movie-01/gallery/image-02.png",
+                "../../../assets/images/spiderman-tom/movie-01/gallery/image-03.png",
+                "../../../assets/images/spiderman-tom/movie-01/gallery/image-04.png"
+            ],
+            "trailer": "https://www.youtube.com/watch?v=TYMMOjBUPMM",
+            "bgclip": "assets/videos/spiderman3-2021-trailer.mp4",
+            "bgimg": "../../../assets/images/spiderman-tom/movie-03/background.png"
+        }]
+    },
+
+    {
+        "id": "andrew-garfield",
+        "name": "Andrew Garfield",
+        "navicon": "../../../assets/images/icons/spiderman3.png",
+        "films":[{
+
+            "id": "the-amazing-spider-man",
+            "logo": "../../../assets/images/spiderman-andrew/movie-01/logo.png",
+            "year": 2012,
+            "director": "Marc Webb",
+            "synopsis": "Peter Parker descobre os segredos sobre seus pais desaparecidos e, enquanto tenta entender sua nova identidade como Homem-Aranha, enfrenta o Dr. Curt Connors, que se transforma no vilão Lagarto. Peter também tenta equilibrar seu relacionamento com Gwen Stacy enquanto lida com suas responsabilidades como herói.",
+            "gallery": [
+                "../../../assets/images/spiderman-andrew/movie-01/gallery/image-01.png",
+                "../../../assets/images/spiderman-andrew/movie-01/gallery/image-02.png",
+                "../../../assets/images/spiderman-andrew/movie-01/gallery/image-03.png"
+            ],
+            "trailer": "https://www.youtube.com/watch?v=TYMMOjBUPMM",
+            "bgclip": "assets/videos/amazing-spiderman-2014-trailer.mp4",
+            "bgimg": "../../../assets/images/spiderman-andrew/movie-01/background.png"
+        },
+        {
+            "id": "the-amazing-spider-man-2",
+            "logo": "../../../assets/images/spiderman-andrew/movie-02/logo.png",
+            "year": 2014,
+            "director": "Marc Webb",
+            "synopsis": "Peter Parker enfrenta novos vilões, incluindo Electro, um homem com poderes de eletricidade, e o Duende Verde, agora na forma de Harry Osborn. Enquanto lida com esses inimigos, Peter também é forçado a enfrentar seu passado e os segredos relacionados à morte de seus pais, enquanto tenta manter seu relacionamento com Gwen Stacy.",
+            "gallery": [
+                "../../../assets/images/spiderman-andrew/movie-02/gallery/image-01.png",
+                "../../../assets/images/spiderman-andrew/movie-02/gallery/image-02.png",
+                "../../../assets/images/spiderman-andrew/movie-02/gallery/image-03.png"
+            ],
+            "trailer": "https://www.youtube.com/watch?v=TYMMOjBUPMM",
+            "bgclip": "assets/videos/amazing-spiderman2-2014-trailer.mp4",
+            "bgimg": "../../../assets/images/spiderman-andrew/movie-02/background.png"
+        }]
+    }
+]

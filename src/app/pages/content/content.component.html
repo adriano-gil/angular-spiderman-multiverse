@@ -1,0 +1,75 @@
+<div class="s-wrapper" >
+
+    <!-- <video autoplay *ngIf="filmData?.bgclip">
+        <source [src]="filmData?.bgclip" type="video/mp4" />
+    </video> -->
+
+    <div class="s-bgimg">
+        <img [src]= "filmData?.bgimg"/>
+    </div>
+
+    <div class="s-left-column">
+      <nav class="navigator">
+        <div class="navigator__icon">
+            <a href="#">
+                <img [src]="navIcon" alt="{{ characterData?.name }} Icon" />
+            </a>
+        </div>
+        <ul>
+            <li *ngFor="let film of films; let i = index">
+              <a [routerLink]="['/content', characterId, film.id]">{{ i + 1 }}</a>
+            </li>
+          </ul>
+      </nav>
+    </div>
+
+
+    <div class="s-main-content">
+      <div class="s-main-content__top">
+        <div class="s-logo">
+            <img [src]= "filmData?.logo"/>
+        </div>
+
+        <div class="s-description">
+          <div class="pills">
+            <ul>
+                <li>{{ filmData?.year }}</li>
+                <li>{{ filmData?.director }}</li>
+              </ul>
+          </div>
+
+          <div class="s-description__text">
+            <p><strong>Sinopse:</strong>&nbsp;{{ filmData?.synopsis }}</p>
+          </div>
+        </div>
+
+        <div class="s-links">
+          <ul>
+            <li>
+              <a [href]="filmData?.trailer" class="link-button" target="_blank">
+                <span class="icon">
+                  <div class="play-icon">&nbsp;</div>
+                </span>
+                <span class="label">
+                  Assistir trailer
+                </span>
+              </a>
+            </li>
+          </ul>
+        </div>
+
+      </div>
+
+      <div class="s-main-content__bottom">
+        <div class="gallery">
+          <ul>
+            <li *ngFor="let image of filmData?.gallery">
+                <a data-fancybox href="{{ image }}">
+                  <img [src]="image" alt="Gallery Image">
+                </a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+</div>
