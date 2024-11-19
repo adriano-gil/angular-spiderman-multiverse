@@ -1,27 +1,34 @@
-# SpidermanMultiverse
+# Projeto Angular - Spider-Man Multiverse
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.10.
+![Spider-Man Multiverse](src/assets/spiderman-multiverse-figma.png)
 
-## Development server
+Este projeto utiliza o framework Angular para criar uma aplicação interativa que apresenta um carrossel de filmes baseados no personagem Spider-Man, explorando diferentes versões do herói interpretadas por Tobey Maguire, Tom Holland e Andrew Garfield. A aplicação permite ao usuário interagir com uma galeria de filmes e acessar detalhes como sinopse, ano, diretor, além de assistir aos trailers dos filmes.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Funcionalidades
 
-## Code scaffolding
+- **Página Inicial (Home)**: Exibe um carrossel de cartões com diferentes versões do Spider-Man, permitindo ao usuário escolher entre Tobey Maguire, Tom Holland e Andrew Garfield.
+  - **Efeito 3D no Carrossel**: Ao passar o mouse sobre um cartão, ele aumenta e destaca a versão do herói, enquanto o fundo muda conforme o cartão selecionado.
+  - **Controle de Navegação**: Botões permitem ao usuário navegar entre as versões do Spider-Man, alterando a visualização do carrossel.
+  
+- **Página de Detalhes do Filme (Content)**: Ao selecionar um personagem, o usuário é redirecionado para uma página com detalhes específicos do filme:
+  - **Logo e Imagem de Fundo**: Exibe o logo do filme e uma imagem de fundo ou vídeo.
+  - **Sinopse e Informações do Filme**: Exibe detalhes como o ano de lançamento, diretor e uma sinopse do filme.
+  - **Galeria de Imagens**: Uma galeria de imagens relacionadas ao filme.
+  - **Trailer**: Link para assistir ao trailer do filme.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Tecnologias Utilizadas
 
-## Build
+- **Angular**: Framework JavaScript para desenvolvimento de Single Page Application (SPA).
+- **TypeScript**: Linguagem de programação que adiciona tipagem estática ao JavaScript.
+- **CSS Flexbox & 3D Transforms**: Layouts responsivos e animações para a interface de usuário, incluindo efeitos 3D no carrossel.
+- **Fancybox**: Biblioteca para visualizar as imagens da galeria em um modal.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## Estrutura do Projeto
 
-## Running unit tests
+- **Componentes**:
+  - `HomeComponent`: Exibe a página inicial com o carrossel de filmes.
+  - `ContentComponent`: Exibe os detalhes de um filme quando o usuário seleciona uma versão do Spider-Man.
+  
+- **Roteamento**: O projeto usa roteamento dinâmico para carregar as páginas de conteúdo com base nos parâmetros da URL (ID do personagem e ID do filme).
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+- #Projeto feito na Dio em html/css/javascript -> eu fiz a refatoração para angular e toda parte dinâmica de criação de páginas.
